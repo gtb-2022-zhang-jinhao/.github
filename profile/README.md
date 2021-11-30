@@ -3,10 +3,10 @@ Hi, this is my poor mimic of Panda's Org!
 
 You may know me from this avatar.
 
-![avatar](avatar.JPG)
+<img src="../assets/avatar.JPG" alt="avatar" style="zoom:25%;" />
 
 Well, I'm not a kind of people who like selfies. I did check my Wechat moment, and every photo includes me may also include other people, I mean, a lot of people. So forgive me for choosing this photo as the end.
 
-![selfie](selfie.jpg)
+<img src="../assets/selfie.jpg" alt="selfie" style="zoom:5%;" />
 
-Thank you for watching!
+Thank you for watching! ;)
