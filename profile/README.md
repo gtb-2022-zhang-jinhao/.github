@@ -1,5 +1,5 @@
 # Welcome to Jinhao's Org!
-This is my poor mimic of Panda's Org.
+Hi, this is my poor mimic of Panda's Org!
 
 You may know me from this avatar.
 
