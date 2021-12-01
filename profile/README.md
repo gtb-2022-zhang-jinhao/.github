@@ -5,7 +5,7 @@ You may know me from this avatar.
 
 <img src="assets/avatar.JPG" alt="avatar" width="18%;" />
 
-Well, I'm not kind the of person who like selfies. I did check my Wechat moment, and every photo includes me may also include other people, I mean, a lot of people. So forgive me for choosing this photo as the end.
+Well, I'm not the kind of person who like selfies. I did check my Wechat moment, and every photo includes me may also include other people, I mean, a lot of people. So forgive me for choosing this photo as the end.
 
 <img src="assets/selfie.jpg" alt="selfie" width="15%;" />
 
